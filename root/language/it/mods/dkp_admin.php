@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 /**  
- * bbdkp admin language file [English]
+ * bbdkp admin language file [Italian]
  * @author Sajaki@bbdkp.com
  *
  * @copyright 2009 bbdkp <http://code.google.com/p/bbdkp/>
